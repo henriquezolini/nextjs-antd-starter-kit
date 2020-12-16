@@ -1,0 +1,25 @@
+.layout-app {
+  height: 100vh;
+}
+
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  height: 48px;
+  background: #1890ff;
+  margin: 16px;
+}
+
+.layout-content {
+  padding: 30px;
+}
